@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "name": "Ak1",
+      "password": "$2b$04$EzjJBtbEFGeE4YcC3rfF3eA8FiV.9c4baHjHvQfs9vJzd8n.hPQ..",
+      "id": "b0a11880-1b2c-11ea-8bb9-eba667c5c6d4"
+    },
+    {
+      "name": "Ak2",
+      "password": "$2b$04$xyxihhUuhVAVKflYKU0fiuLVxi/dRRShuGW9KjRBklDUTJ9nIIre.",
+      "id": "fa0d5470-1b2c-11ea-94e8-c3340dc85191"
+    }
+  ],
+  "count": 0
+}
