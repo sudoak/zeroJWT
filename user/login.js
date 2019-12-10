@@ -29,7 +29,7 @@ module.exports = async (req,res) => {
             }
         }
 
-        res.status(HttpStatus.UNAUTHORIZED).send(HttpStatus.getStatusText(HttpStatus.UNAUTHORIZED));
+        res.status(HttpStatus.NOT_FOUND).send(HttpStatus.getStatusText(HttpStatus.NOT_FOUND));
     } catch (error) {
         console.log('====================================');
         console.log(error);
